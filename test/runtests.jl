@@ -1,6 +1,6 @@
-using Infinitisimal
+using Infinitesimal
 using Test
 
-@testset "Infinitisimal.jl" begin
+@testset "Infinitesimal.jl" begin
     # Write your tests here.
 end
